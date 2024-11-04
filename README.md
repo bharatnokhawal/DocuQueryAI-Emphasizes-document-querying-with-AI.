@@ -1,5 +1,5 @@
 # DocuQueryAI-Emphasizes-document-querying-with-AI.
-# DocuQueryAI
+
 
 **DocuQueryAI** is an interactive Streamlit application that lets you chat with your PDF documents and web content. Powered by Google Generative AI, FAISS, and LangChain, this app processes, scrapes, and retrieves relevant data, making it easy to find answers from large text documents and web pages.
 
@@ -23,5 +23,19 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/bharatnokhawal/DocuQueryAI.git
+   [git clone https://github.com/bharatnokhawal/DocuQueryAI.git](https://github.com/bharatnokhawal/DocuQueryAI-Emphasizes-document-querying-with-AI..git)
    cd DocuQueryAI
+
+   pip install -r requirements.txt
+
+
+   GOOGLE_API_KEY=your_google_api_key
+
+
+   streamlit run app_1.py
+
+
+
+
+
+
